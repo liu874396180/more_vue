@@ -2,20 +2,10 @@
 
 > 测vue多页应用
 
-## Build Setup
+最近研究了一下 vue 多页面应用，参考着，也搞了个模板。
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+至于 多页面 、 单页：
+![在这里插入图片描述](https://images2018.cnblogs.com/blog/1272535/201803/1272535-20180320145829479-11759937.png)
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![在这里插入图片描述](http://images2015.cnblogs.com/blog/1006796/201610/1006796-20161028103922875-886619453.png)
